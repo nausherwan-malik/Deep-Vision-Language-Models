@@ -1,0 +1,6 @@
+Experiment,Epoch,Train_Accuracy,Val_Accuracy
+Pretrained + Partial FT,1,85.18,89.95
+Pretrained + Partial FT,2,93.592,90.51
+Pretrained + Partial FT,3,97.102,90.06
+Pretrained + Partial FT,4,98.584,90.68
+Pretrained + Partial FT,5,98.928,90.58
