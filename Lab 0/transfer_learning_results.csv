@@ -7,3 +7,10 @@ Pretrained + Partial FT,5,98.928,90.58
 Pretrained + Full FT,1,92.656,96.35
 Pretrained + Full FT,2,98.218,96.74
 Pretrained + Full FT,3,98.96,96.86
+Pretrained + Full FT,4,99.176,96.53
+Pretrained + Full FT,5,99.184,96.77
+Scratch + Full FT,1,32.76,44.07
+Scratch + Full FT,2,48.014,51.38
+Scratch + Full FT,3,56.022,60.2
+Scratch + Full FT,4,63.39,65.17
+Scratch + Full FT,5,69.89,68.6
